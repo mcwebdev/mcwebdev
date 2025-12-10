@@ -111,9 +111,7 @@ A comprehensive collection of **130+ animated, interactive, and customizable Ang
 
 ## 💼 Let's Connect
 
-👯 **I'm looking to collaborate on a cofounder GTM**
-
-📫 **You can reach me at:** [mattcwebdev@gmail.com](mailto:mattcwebdev@gmail.com)
+👯 **I'm looking to collaborate with a GTM cofounder**
 
 💻 **Currently available for contract work**, and may consider full-time for the perfect match.
 
