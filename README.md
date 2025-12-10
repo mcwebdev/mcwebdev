@@ -5,12 +5,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcwebdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcwebdev&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcwebdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcwebdev&layout=compact&langs_count=8&theme=dark&cache_seconds=86400"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=mcwebdev&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=mcwebdev&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
