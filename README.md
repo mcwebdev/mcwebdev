@@ -23,9 +23,9 @@
 
 ![DeepSpeed AI](deepspeed.png)
 
-**Automate the work that's wasting your team's time — in 30 days.**
+**[Automate the work that's wasting your team's time — in 30 days.](https://deepspeedai.com)**
 
-We deploy automation, copilots, and executive intelligence with built-in governance, audit trails, and data controls — so your team gets real time back without adding risk. With instant budget wizard.
+[We deploy automation, copilots, and executive intelligence with built-in governance, audit trails, and data controls — so your team gets real time back without adding risk. With instant budget wizard.](https://deepspeedai.com)
 
 ---
 
@@ -33,7 +33,7 @@ We deploy automation, copilots, and executive intelligence with built-in governa
 
 ![IntegrityLens AI](integrityLens.png)
 
-**IntegrityLens AI is revolutionizing the hiring landscape** with our comprehensive candidate verification and technical assessment platform. We combine cutting-edge AI with multi-layered authentication to ensure the integrity of your entire hiring process.
+[**IntegrityLens AI is revolutionizing the hiring landscape** with our comprehensive candidate verification and technical assessment platform. We combine cutting-edge AI with multi-layered authentication to ensure the integrity of your entire hiring process.](https://getintegritylens.com)
 
 #### 📹 Platform Demos
 
@@ -55,7 +55,7 @@ We deploy automation, copilots, and executive intelligence with built-in governa
 
 ![gitPlumbers](gitplumbers.png)
 
-At **gitPlumbers**, we stabilize and modernize AI-assisted and legacy systems so teams can ship faster, scale confidently, and innovate without chaos.
+[At **gitPlumbers**, we stabilize and modernize AI-assisted and legacy systems so teams can ship faster, scale confidently, and innovate without chaos.](https://gitplumbers.com)
 
 ---
 
@@ -63,7 +63,7 @@ At **gitPlumbers**, we stabilize and modernize AI-assisted and legacy systems so
 
 ![SageStepper](sagestepper.png)
 
-**SageStepper is the AI interview studio** built for students and professionals who want to turn practice into panel-ready confidence. Our platform pairs adaptive mock interviews with auto-coached feedback so you can drill what matters, see your gaps, and iterate fast.
+[**SageStepper is the AI interview studio** built for students and professionals who want to turn practice into panel-ready confidence. Our platform pairs adaptive mock interviews with auto-coached feedback so you can drill what matters, see your gaps, and iterate fast.](https://sagestepper.com)
 
 ---
 
@@ -71,15 +71,15 @@ At **gitPlumbers**, we stabilize and modernize AI-assisted and legacy systems so
 
 ![Angular UX](angularux.png)
 
-My Angular showcase featuring **over 100 demos** demonstrating advanced Angular patterns, best practices, and cutting-edge implementations.
+[My Angular showcase featuring **over 100 demos** demonstrating advanced Angular patterns, best practices, and cutting-edge implementations.](https://angularux.com)
 
 ---
 
-### 🌊 [Angular Component Library (ngWave)](https://ngwave.com)
+### 🌊 [Angular Component Library (ngWave)](https://ngwave.angularux.com/)
 
 ![ngWave](ngwave.png)
 
-A comprehensive collection of **130+ animated, interactive, and customizable Angular components**. Converted from React Bits with full feature parity, built with Angular Signals, GSAP animations, and Three.js for stunning visual effects.
+[A comprehensive collection of **130+ animated, interactive, and customizable Angular components**. Converted from React Bits with full feature parity, built with Angular Signals, GSAP animations, and Three.js for stunning visual effects.](https://ngwave.angularux.com/)
 
 ---
 
@@ -97,6 +97,7 @@ A comprehensive collection of **130+ animated, interactive, and customizable Ang
 
 ### Backend & Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
@@ -104,6 +105,8 @@ A comprehensive collection of **130+ animated, interactive, and customizable Ang
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Claude CLI](https://img.shields.io/badge/Claude_CLI-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-00A8FF?style=for-the-badge&logo=model-context-protocol&logoColor=white)
 
 </div>
 
