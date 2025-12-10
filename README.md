@@ -106,6 +106,7 @@ A comprehensive collection of **130+ animated, interactive, and customizable Ang
 ![NgRx](https://img.shields.io/badge/NgRx-14375C?style=for-the-badge&logo=ngrx&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Canvas](https://img.shields.io/badge/Canvas-4285F4?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Backend & Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
@@ -113,11 +114,18 @@ A comprehensive collection of **130+ animated, interactive, and customizable Ang
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+### Observability
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Telemetry](https://img.shields.io/badge/Telemetry-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Claude CLI](https://img.shields.io/badge/Claude_CLI-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_3-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-00A8FF?style=for-the-badge&logo=model-context-protocol&logoColor=white)
 
 </div>
