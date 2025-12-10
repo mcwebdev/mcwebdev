@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-2025 has been an exceptionally productive year: I developed four full-stack, cloud-based Angular applications, created a new Three.js animation component library for Angular, and provided consultancy services to one of the largest companies in the Telecommunications and Mass Media sector. If you’re looking to accelerate your engineering projects, streamline development, or bring cutting-edge web experiences to life, I can help turn your vision into reality—let’s build something remarkable together.
+2025 has been an exceptionally productive year: I developed **four full-stack, cloud-based Angular applications**, created a **new Three.js animation component library for Angular**, and provided consultancy services to **one of the largest companies in the Telecommunications and Mass Media sector**. 
+
+*If you're looking to accelerate your engineering projects, streamline development, or bring cutting-edge web experiences to life, I can help turn your vision into reality—let's build something remarkable together.*
 
 ### 📊 GitHub Stats
 
