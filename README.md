@@ -5,13 +5,15 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcwebdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcwebdev&layout=compact&langs_count=8&theme=dark&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcwebdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcwebdev&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=mcwebdev&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mcwebdev&theme=dark" alt="GitHub Streak" />
 </div>
+
+> **Note:** If stats don't display, the public services may be experiencing downtime. Consider deploying your own instance for reliability. See [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for setup instructions.
 
 ---
 
