@@ -1,6 +1,17 @@
 ## Hi there 👋
 
-In the last 6 months I have built 4 fullstack Angular cloud-based applications.
+2025 has been very productive, I have built 4 fullstack Angular cloud-based applications, and created a new three.js animation component library for Angular.
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcwebdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcwebdev&layout=compact&langs_count=8&theme=dark"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcwebdev&theme=dark" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -19,6 +30,17 @@ We deploy automation, copilots, and executive intelligence with built-in governa
 ![IntegrityLens AI](integrityLens.png)
 
 **IntegrityLens AI is revolutionizing the hiring landscape** with our comprehensive candidate verification and technical assessment platform. We combine cutting-edge AI with multi-layered authentication to ensure the integrity of your entire hiring process.
+
+#### 📹 Platform Demo
+
+<div align="center">
+  <video width="100%" controls>
+    <source src="https://firebasestorage.googleapis.com/v0/b/integritylens-f006a.firebasestorage.app/o/admin-emails%2Ft26n2gPNLXS6aZmw6SvnOsjsKwG2%2Fvideos%2Fvideo_1765401295344.mp4?alt=media&token=98c56741-7ec4-46a3-a47d-3f5e3039b097" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+📱 [Watch on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7373969266490064896)
 
 ---
 
@@ -54,6 +76,32 @@ A comprehensive collection of **130+ animated, interactive, and customizable Ang
 
 ---
 
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-14375C?style=for-the-badge&logo=ngrx&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+### Backend & Cloud
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
 ## 💼 Let's Connect
 
 👯 **I'm looking to collaborate on a cofounder GTM**
@@ -61,5 +109,11 @@ A comprehensive collection of **130+ animated, interactive, and customizable Ang
 📫 **You can reach me at:** [mattcwebdev@gmail.com](mailto:mattcwebdev@gmail.com)
 
 💻 **Currently available for contract work**, and may consider full-time for the perfect match.
+
+### 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattcharlton/)
+[![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/GithubMcWebDev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mattcwebdev@gmail.com)
 
 ---
