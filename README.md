@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=mcwebdev&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=mcwebdev&theme=dark" alt="GitHub Streak" />
 </div>
 
 ---
@@ -35,9 +35,7 @@ We deploy automation, copilots, and executive intelligence with built-in governa
 
 <div align="center">
 
-[![Watch the Demo](https://img.shields.io/badge/▶️_Watch_Platform_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/integritylens-f006a.firebasestorage.app/o/admin-emails%2Ft26n2gPNLXS6aZmw6SvnOsjsKwG2%2Fvideos%2Fvideo_1765401295344.mp4?alt=media&token=98c56741-7ec4-46a3-a47d-3f5e3039b097)
-
-[📱 Watch on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7373969266490064896)
+**[▶️ Watch Platform Demo Video](https://firebasestorage.googleapis.com/v0/b/integritylens-f006a.firebasestorage.app/o/admin-emails%2Ft26n2gPNLXS6aZmw6SvnOsjsKwG2%2Fvideos%2Fvideo_1765401295344.mp4?alt=media&token=98c56741-7ec4-46a3-a47d-3f5e3039b097)** | **[📱 Watch on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7373969266490064896)**
 
 </div>
 
