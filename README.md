@@ -138,6 +138,8 @@ A comprehensive collection of **130+ animated, interactive, and customizable Ang
 
 💻 **Currently available for contract work**, and may consider full-time for the perfect match.
 
+### Excited to build something extraordinary together—reach out anytime!
+
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattcharlton/)
