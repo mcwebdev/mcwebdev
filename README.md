@@ -4,19 +4,6 @@
 
 *If you're looking to accelerate your engineering projects, streamline development, or bring cutting-edge web experiences to life, I can help turn your vision into reality—let's build something remarkable together.*
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcwebdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcwebdev&layout=compact&langs_count=8&theme=dark"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mcwebdev&theme=dark" alt="GitHub Streak" />
-</div>
-
-> **Note:** If stats don't display, the public services may be experiencing downtime. Consider deploying your own instance for reliability. See [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for setup instructions.
-
 ---
 
 ### 🚀 [DeepSpeed AI](https://deepspeedai.com)
